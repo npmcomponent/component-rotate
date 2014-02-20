@@ -1,5 +1,5 @@
 {
-  "name": "rotate-component",
+  "name": "component-rotate",
   "description": "Canvas rotation with origin support",
   "version": "1.0.0",
   "keywords": [
@@ -7,17 +7,7 @@
     "rotate",
     "rotation"
   ],
-  "dependencies": {},
-  "development": {},
-  "license": "MIT",
   "main": "index.js",
-  "component": {
-    "scripts": {
-      "rotate/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/rotate.git"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }
